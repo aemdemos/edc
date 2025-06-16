@@ -1,6 +1,7 @@
 # edc
 
 This is a project created by AEMY.
+We are technically evaluating https://www.edc.ca/ 
 
 ## Environments
 
